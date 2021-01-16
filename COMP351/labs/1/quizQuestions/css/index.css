@@ -1,0 +1,48 @@
+.navigation 
+  {
+    overflow: hidden;
+    background-color:#4a4a4a;
+  }
+  
+  .navigation a 
+  {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navigation a:hover 
+  {
+    background-color: #ddd;
+    color: #4a4a4a;
+  }
+
+.let{
+
+color: darkred;
+font-weight: bold;
+}
+.alclass{
+
+color: dodgerblue;
+font-weight: bold;
+
+}
+
+.Supercodeclass{
+
+color: green;
+font-weight: bold;
+
+}
+
+.anclass{
+
+color: indigo;
+font-weight: bold;
+
+
+}
